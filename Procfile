@@ -1,0 +1,1 @@
+web: gunicorn farmscores.wsgi --log-file -
